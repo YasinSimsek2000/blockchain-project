@@ -11,13 +11,13 @@ const nav = [
   {
     component: CNavItem,
     name: 'BLOCKCHAIN',
-    to: '/blockchain',
+    to: '/blockchain-project/blockchain',
     icon: <CIcon icon={cilDrop} customClassName="nav-icon" />,
   },
   {
     component: CNavItem,
     name: 'SOLANA',
-    to: '/solana',
+    to: '/blockchain-project/solana',
     icon: <CIcon icon={cilPencil} customClassName="nav-icon" />,
   },
   {
@@ -27,13 +27,13 @@ const nav = [
   {
     component: CNavItem,
     name: 'MILESTONES',
-    to: '/milestones',
+    to: '/blockchain-project/milestones',
     icon: <CIcon icon={cilMap} customClassName="nav-icon" />,
   },
   {
     component: CNavItem,
     name: 'TEAM',
-    to: '/team',
+    to: '/blockchain-project/team',
     icon: <CIcon icon={cilGroup} customClassName="nav-icon" />,
   },
 ]

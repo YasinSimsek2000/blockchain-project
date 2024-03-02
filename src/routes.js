@@ -7,11 +7,11 @@ const Milestones = React.lazy(() => import('./views/Milestones'))
 const Team = React.lazy(() => import('./views/Team'))
 
 const routes = [
-  { path: '/', exact: true, name: 'Home' },
-  { path: '/blockchain', name: 'Blockchain', element: Blockchain },
-  { path: '/solana', name: 'Solana', element: Solana },
-  { path: '/milestones', name: 'Milestones', element: Milestones },
-  { path: '/team', name: 'Team', element: Team },
+  { path: '/blockchain-project', exact: true, name: 'Home' },
+  { path: '/blockchain-project/blockchain', name: 'Blockchain', element: Blockchain },
+  { path: '/blockchain-project/solana', name: 'Solana', element: Solana },
+  { path: '/blockchain-project/milestones', name: 'Milestones', element: Milestones },
+  { path: '/blockchain-project/team', name: 'Team', element: Team },
 ]
 
 export default routes
