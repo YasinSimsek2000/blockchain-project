@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/blockchain-project/static/css/main.2ca1f487.css",
+    "main.js": "/blockchain-project/static/js/main.afab79e8.js",
+    "static/css/120.0a16c7bf.chunk.css": "/blockchain-project/static/css/120.0a16c7bf.chunk.css",
+    "static/js/120.71ca0930.chunk.js": "/blockchain-project/static/js/120.71ca0930.chunk.js",
+    "static/js/488.371f7511.chunk.js": "/blockchain-project/static/js/488.371f7511.chunk.js",
+    "static/js/615.9bd2b71f.chunk.js": "/blockchain-project/static/js/615.9bd2b71f.chunk.js",
+    "static/js/57.0f7786fd.chunk.js": "/blockchain-project/static/js/57.0f7786fd.chunk.js",
+    "static/js/865.32246c4b.chunk.js": "/blockchain-project/static/js/865.32246c4b.chunk.js",
+    "static/css/243.c5f230fb.chunk.css": "/blockchain-project/static/css/243.c5f230fb.chunk.css",
+    "static/js/243.48b5ca11.chunk.js": "/blockchain-project/static/js/243.48b5ca11.chunk.js",
+    "static/js/417.14a37b5a.chunk.js": "/blockchain-project/static/js/417.14a37b5a.chunk.js",
+    "static/media/react.jpg": "/blockchain-project/static/media/react.83088efde08a5dedde9f.jpg",
+    "static/media/Serkan.svg": "/blockchain-project/static/media/Serkan.8bc82fe9bab203101f48908b42b6defe.svg",
+    "static/media/Yasin.svg": "/blockchain-project/static/media/Yasin.808d8d7b53bc8ff77c8685215b5a2c97.svg",
+    "static/media/Maruf.svg": "/blockchain-project/static/media/Maruf.1bb046f545f6b73bb5a38579bb206984.svg",
+    "static/media/Javid.svg": "/blockchain-project/static/media/Javid.6d522d204143aedf5e094c11ff3bd292.svg",
+    "static/media/8.jpg": "/blockchain-project/static/media/8.35ee8919ea545620a475.jpg",
+    "index.html": "/blockchain-project/index.html",
+    "main.2ca1f487.css.map": "/blockchain-project/static/css/main.2ca1f487.css.map",
+    "main.afab79e8.js.map": "/blockchain-project/static/js/main.afab79e8.js.map",
+    "120.0a16c7bf.chunk.css.map": "/blockchain-project/static/css/120.0a16c7bf.chunk.css.map",
+    "120.71ca0930.chunk.js.map": "/blockchain-project/static/js/120.71ca0930.chunk.js.map",
+    "488.371f7511.chunk.js.map": "/blockchain-project/static/js/488.371f7511.chunk.js.map",
+    "615.9bd2b71f.chunk.js.map": "/blockchain-project/static/js/615.9bd2b71f.chunk.js.map",
+    "57.0f7786fd.chunk.js.map": "/blockchain-project/static/js/57.0f7786fd.chunk.js.map",
+    "865.32246c4b.chunk.js.map": "/blockchain-project/static/js/865.32246c4b.chunk.js.map",
+    "243.c5f230fb.chunk.css.map": "/blockchain-project/static/css/243.c5f230fb.chunk.css.map",
+    "243.48b5ca11.chunk.js.map": "/blockchain-project/static/js/243.48b5ca11.chunk.js.map",
+    "417.14a37b5a.chunk.js.map": "/blockchain-project/static/js/417.14a37b5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ca1f487.css",
+    "static/js/main.afab79e8.js"
+  ]
+}
